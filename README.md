@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Hedaya Alkhaldy</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
+- 🔭 I’m currently working on [BetaQatcom](https://betaqatcom.it-appsfactory.com)
+
+- 🌱 I’m currently learning **VueJS3,**
+
+- 👯 I’m looking to collaborate on [Fawaterk](http://fawaterk.it-appsfactory.com/)
+
+- 🤝 I’m looking for help with **High Gate Academy of Excellence**
+
+- 📫 How to reach me **hedaya.alkhaldy@mail.com**
+
+- ⚡ Fun fact **Full of energy,passion for achievement,creativity and excellence**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hedaya__1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hedaya__1" height="30" width="40" /></a>
