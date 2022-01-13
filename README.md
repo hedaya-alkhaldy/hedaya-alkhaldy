@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **High Gate Academy of Excellence**
 
-- 📫 How to reach me **hedaya.alkhaldy@mail.com**
+- 📫 How to reach me **hedaya.alkhaldy@gmail.com**
 
 - ⚡ Fun fact **Full of energy,passion for achievement,creativity and excellence**
 
