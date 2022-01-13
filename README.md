@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hedaya.alkhaldy@gmail.com**
 
-- ⚡ Fun fact **Full of energy,passion for achievement,creativity and excellence**
+- ⚡ Fun fact **Full of energy,passion for achievement,creativity and excellence.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
