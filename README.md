@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/hedaya__1" target="blank"><img src="https://img.shields.io/twitter/follow/hedaya__1?logo=twitter&style=for-the-badge" alt="hedaya__1" /></a> </p>
 
-- 🔭 I’m currently working on [BetaQatcom](https://betaqatcom.it-appsfactory.com)
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **VueJS3,**
+- 🌱 I’m currently learning **LiveWire,**
 
-- 👯 I’m looking to collaborate on [Fawaterk](http://fawaterk.it-appsfactory.com/)
+- 👯 I’m looking to collaborate on [Fawaterk](http://fawaterk.it-appsfactory.com/),[BetaQatcom](https://betaqatcom.it-appsfactory.com),[High Gate Academy of Excellence](https://hga.school/)
 
-- 🤝 I’m looking for help with **High Gate Academy of Excellence**
+- 🤝 I’m looking for help with **POS**
 
 - 📫 How to reach me **hedaya.alkhaldy@gmail.com**
 
